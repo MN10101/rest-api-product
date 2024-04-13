@@ -36,6 +36,10 @@ To use the REST API:
 
 To retrieve the list of products, send a GET request to `/api/products`.
 
+## Author
+
+- Mahmoud Najmeh
+
 ## Example Response
 
 The response will be a JSON array containing information about the products.
@@ -65,9 +69,6 @@ The response will be a JSON array containing information about the products.
 # Dependencies
 - Spring Boot: The Java files are intended for use with Spring Boot applications.
 
-## Author
-
-- Mahmoud Najmeh
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
