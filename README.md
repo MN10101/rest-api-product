@@ -69,6 +69,3 @@ The response will be a JSON array containing information about the products.
 # Dependencies
 - Spring Boot: The Java files are intended for use with Spring Boot applications.
 
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
